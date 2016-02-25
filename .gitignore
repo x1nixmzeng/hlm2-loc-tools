@@ -1,0 +1,12 @@
+*.o
+files/
+msvc/
+*.exe
+*.zip
+*.dll
+src/doc
+src/examples
+src/include
+src/lib
+src/libtcc
+src/tcc
